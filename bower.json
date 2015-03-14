@@ -1,0 +1,25 @@
+{
+  "name": "cryptoparty-perth",
+  "version": "0.1.0",
+  "authors": [
+    "Grahame Bowland <grahame@angrygoats.net>"
+  ],
+  "description": "cryptoparty slides from Perth parties, March 2015",
+  "keywords": [
+    "cryptoparty",
+    "perth"
+  ],
+  "license": "MIT",
+  "homepage": "https://sirgraha.me/cryptoparty-perth/",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "impress.js": "~0.5.3"
+  }
+}
